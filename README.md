@@ -5,6 +5,14 @@
 ❓ If you have any questions or would like to ask for something unique, please contact me.
 
 ---
+
+### Here is my websites
+
+Main website: https://tompidev.com
+
+Demo for Bludit: https://demo.tompodev.com
+
+---
 If you like my work and want to support it, you can do so by clicking the button below.
 
 All support increases my commitment.
