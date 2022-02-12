@@ -10,7 +10,7 @@
 
 Main website: https://tompidev.com
 
-Demo for Bludit: https://demo.tompodev.com
+Demo for Bludit: https://demo.tompidev.com
 
 ---
 If you like my work and want to support it, you can do so by clicking the button below.
