@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-👷‍ I’m currently working on a new plugin for Bludit CMS. With this plugin you get the ability to create a menu on your website.
+✏️ I’m currently working on a new plugin for Bludit CMS. With this plugin you get the ability to create a menu on your website.
 
-💬 If you have any questions or would like to ask for something unique, please contact me.
+❓ If you have any questions or would like to ask for something unique, please contact me.
 
 ---
 If you like my work and want to support it, you can do so by clicking the button below.
