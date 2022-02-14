@@ -15,9 +15,7 @@ Demo for Bludit: https://demo.tompidev.com
 ---
 If you like my work and want to support it, you can do so by clicking the button below.
 
-All support increases my commitment.
-
-Thank you!
+All support increases my commitment. Thank you!
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/tompidev)
 
